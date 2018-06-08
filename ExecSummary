@@ -1,0 +1,59 @@
+Executive Summary:
+
+    My web design for this project heavily drew upon BIG and PUNCHY art.
+I started looking at large companies and how they were using product
+placement on their websites, along with what other photographers were doing on
+their websites. I found that there is a clear trend towards big and boastful
+billboard style websites where the product, or the photos, are front and center
+and quickly get the users attention in whatever they are looking at.
+
+    As you can see, on my website, I was able to clearly articulate this
+design pattern while keeping the site dynamic. I could have simply stacked the
+photos on top on one another to represent the "big art trend", but I
+had the idea to put my landscape oriented images across the whole screen,
+and my portrait oriented images in rows of 2. This keeps the design lively and
+allows the eye to not get bored looking at one image at a time as the user
+scrolls through the site.
+
+    I would have done more in the way of making pages, but with the limited space
+available to us on our UW server partition, I kept my site concise and consistent.
+Despite all the photos, I was able to still make a site that loads very quickly
+because when I exported my images from Adobe Lightroom I downed the ppi to 72, along
+with keeping the rest of the data minimal. The downsize of the resolution obviously played
+a huge role in cutting loading times, because some of my images start an more than 20mb
+in RAW format. All these factors are important for web use because my clients need the
+convenience of being able to surf sites quickly and efficiently. More to the point,
+having a slow site is bad for business.
+
+    As for my target audience, I tried to keep the site a resizeable as possible for
+mobile users, BUT my main targets are desktop users who want the full experience of
+being immersed in my photography. I also believe that most users that are looking for
+a photographer to hire, or to collaborate with, are going to want to review the images
+they are basing their decision on very diligently, and are most likely to
+be using a desktop platform. Therefore, my design with my images front and center,
+big and boastful, is key in getting the clients that I want to work with, while still
+impressing my peer professionals with the detail and quality of my work.
+
+    To the same effect of big and punchy design, my color choice and font choice are
+integral decisions that wrap the finer details of my site up, to compliment the entire
+package. Black and orange have a very stark contrast and are different than what
+most people think about using. I think that this color combination helps me stand
+out in the muddled crowd of photographers and also highlights my images more effectively.
+The black background really makes the images pop, even the black and whites. This is also
+the case for my text, the orange text allows clear and concise reading, which is important
+to the professionalism of the site. On the same note, my font choice, especially for my
+title logo "DTC.dng" is very deliberate, I wanted a heavy weight, versatile, sans-serif
+font that is easy to read but also makes a statement, in this case Lato from the Google
+font database works extremely well.
+
+
+**NOTE**
+Bootstrap 4.1.1 was available for download, BUT whats interesting is that for whatever reason,
+my IDE will not allow me to add it to a directory within the file I'm working in.
+Very frustrating indeed, but I hope the CDN will suffice! It seems to be perfectly fine.
+
+Primary sources of inspiration:
+
+My REAL website via SquareSpace: https://www.dtcdng.com/
+Big images/product placements: https://www.apple.com/
+Huge resource and inspiration for BIG and punchy photos/design: https://jaredpolin.com/

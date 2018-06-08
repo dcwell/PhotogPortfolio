@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 5em;
+    font-family: 'Lato', sans-serif;
+}
+
+h2 {
+    color: orange;
+}
+
+#logo {
+    color: orange;
+    text-align: center;
+}
+
+#sub {
+    color: white;
+    text-align: center;
+}
+
+#pf {
+    color: orange;
+    margin-right: 6em;
+    margin-left: 6em;
+}
+
+#portraits {
+    margin-right: 6em;
+    margin-left: 6em;
+}
+
+#contact {
+    margin-right: 6em;
+    margin-left: 6em;
+}
+
+#navrow {
+    justify-content: center;
+}
+
+
+#portPics {
+    align-content: center;
+}
+
+.img1 {
+    width: 540px;
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    margin: 5px;
+}
+
+.img2 {
+    width: 1090px;
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    margin: 5px;
+}
+
+.text-center::before{
+    content:"";
+    margin-left:calc(100% - 75%);
+}
+
